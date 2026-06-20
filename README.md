@@ -43,5 +43,5 @@ Developing a low-cost electromagnetic induction generator designed to improve en
 
 ## Contact
 
-* LinkedIn: [Add your LinkedIn URL]
+* LinkedIn: www.linkedin.com/in/josemondragonl
 * Email: [mondragonlujan@gmail.com](mailto:mondragonlujan@gmail.com)
